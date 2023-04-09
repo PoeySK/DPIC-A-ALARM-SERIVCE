@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DpicAAlarmSerivceApplication {
 
     public static void main(String[] args) {
+
+        // jenkins test 1
         SpringApplication.run(DpicAAlarmSerivceApplication.class, args);
     }
 
