@@ -8,7 +8,7 @@ public class DpicAAlarmSerivceApplication {
 
     public static void main(String[] args) {
 
-        // jenkins test 1
+        // jenkins test 2
         SpringApplication.run(DpicAAlarmSerivceApplication.class, args);
     }
 
